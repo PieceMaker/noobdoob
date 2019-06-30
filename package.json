@@ -1,0 +1,22 @@
+{
+  "name": "noobdoob",
+  "version": "1.0.0",
+  "description": "A simple string converter that replaces vowels with \"oob\".",
+  "main": "noobdoob.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieceMaker/noobdoob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PieceMaker/noobdoob/issues"
+  },
+  "homepage": "https://github.com/PieceMaker/noobdoob#readme",
+  "dependencies": {
+    "typechecker": "^4.7.0"
+  }
+}
