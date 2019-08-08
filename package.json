@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/PieceMaker/noobdoob.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jonathan Adams",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/PieceMaker/noobdoob/issues"
   },

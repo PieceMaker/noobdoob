@@ -17,5 +17,5 @@ const noobdoob = require('noobdoob');
 noobdoob('node');
 // "noobdoob"
 noobdoob('This package is pointless');
-// "Oob thoobnk thoobs poobckoobgoob oobs pooboobntloobss"
+// "Thoobs poobckoobgoob oobs pooboobntloobss"
 ```
