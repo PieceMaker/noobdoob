@@ -1,6 +1,6 @@
 {
   "name": "noobdoob",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple string converter that replaces vowels with \"oob\".",
   "main": "noobdoob.js",
   "scripts": {
